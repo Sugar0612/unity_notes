@@ -3,7 +3,8 @@
 ### *Table of contents*  
 - *Base*  
   - [*UI ray detection*](Base/UIRayDetect.md)  
-  - [*Asyn Loading*](Base/UIRayDetect.md)
+  - [*Asyn Loading*](Base/AsynLoading.md)
+  - [*DestroyImmediate*](Base/DestroyImmediate.md)
 - *Database related*   
   - [*ScriptableObject*](Database-Related/ScriptableObject.md)  
 
