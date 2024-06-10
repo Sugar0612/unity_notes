@@ -9,6 +9,11 @@
   - [*强引用，弱引用*]()
   - [*热更新*]()
   - [*Unity 工程文件 : firstpass / editor / editor-firstpass*](Base/unity_proj_file_classification.md)
+  - Common APIs
+    - [*Component*](Base/Component.md)
+    - [*Transform*](Base/Component.md)
+    - [*GameObject*](Base/Component.md)
+    - [*Object*](Base/Component.md)
 - *Storage*   
   - [*ScriptableObject*](Database/ScriptableObject.md)  
 - *Plugins*
