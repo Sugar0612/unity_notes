@@ -14,6 +14,7 @@
     - [*Transform*](Base/Component.md)
     - [*GameObject*](Base/Component.md)
     - [*Object*](Base/Component.md)
+  - [*Application.streamingAssetsPath*](Base/streamingAssetsPath.md) 
 - *Storage*   
   - [*ScriptableObject*](Database/ScriptableObject.md)  
 - *Plugins*
