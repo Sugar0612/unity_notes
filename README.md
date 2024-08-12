@@ -23,6 +23,7 @@
     - [*AddressableAssets基础使用*](Plugins/Addressables/use.md)  
     - [*AddressableAssets热更新*](Plugins/Addressables/remote_update.md)  
     - [*AddressableAssets其他*](Plugins/Addressables/other.md) 
-  - [*UniTask*]()  
+  - [*UniTask*]()
     - [*关于UniTask使用CancellationToken取消异步的总结*](Plugins/UniTask/CancellationToken.md) 
+  - [*Epplus*](Plugins/Epplus/EPPlus.dll)
 
