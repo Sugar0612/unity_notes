@@ -1,7 +1,7 @@
 ### *Introduce*
 *The purpose is to record and summarize the problems and experience encountered in daily study and work with Unity.*  
 ### *Table of contents*  
-- *Base*  
+- *基础*  
   - [*UI ray detection*](Base/UIRayDetect.md)  
   - [*Async Loading*](Base/AsyncLoading.md)
   - [*DestroyImmediate*](Base/DestroyImmediate.md)
@@ -15,9 +15,9 @@
     - [*GameObject*](Base/Component.md)
     - [*Object*](Base/Component.md)
   - [*Application.streamingAssetsPath*](Base/streamingAssetsPath.md) 
-- *Storage*   
+- *存储*   
   - [*ScriptableObject*](Database/ScriptableObject.md)  
-- *Plugins*
+- *插件*
   - [*AddressableAssets*](Plugins/Addressables/Addressables.md)  
     - [*AddressableAssets安装*](Plugins/Addressables/install.md)  
     - [*AddressableAssets基础使用*](Plugins/Addressables/use.md)  
@@ -26,4 +26,6 @@
   - [*UniTask*]()
     - [*关于UniTask使用CancellationToken取消异步的总结*](Plugins/UniTask/CancellationToken.md) 
   - [*Epplus*](Plugins/Epplus/EPPlus.dll)
+- *平台*
+  - [WebGL平台打包部署心得](Platform/WebGL/WebGL.md) 
 
