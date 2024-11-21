@@ -9,23 +9,16 @@
   - [*强引用，弱引用*]()
   - [*热更新*]()
   - [*Unity 工程文件 : firstpass / editor / editor-firstpass*](Base/unity_proj_file_classification.md)
-  - Common APIs
-    - [*Component*](Base/Component.md)
-    - [*Transform*](Base/Component.md)
-    - [*GameObject*](Base/Component.md)
-    - [*Object*](Base/Component.md)
+  - [Common Apis](Base/Common%20APIS/Common.md)
   - [*Application.streamingAssetsPath*](Base/streamingAssetsPath.md) 
 - *存储*   
   - [*ScriptableObject*](Database/ScriptableObject.md)  
 - *插件*
   - [*AddressableAssets*](Plugins/Addressables/Addressables.md)  
-    - [*AddressableAssets安装*](Plugins/Addressables/install.md)  
-    - [*AddressableAssets基础使用*](Plugins/Addressables/use.md)  
-    - [*AddressableAssets热更新*](Plugins/Addressables/remote_update.md)  
-    - [*AddressableAssets其他*](Plugins/Addressables/other.md) 
-  - [*UniTask*]()
-    - [*关于UniTask使用CancellationToken取消异步的总结*](Plugins/UniTask/CancellationToken.md) 
+  - [*UniTask*](Plugins/UniTask/UniTask.md)
   - [*Epplus*](Plugins/Epplus/EPPlus.dll)
 - *平台*
   - [WebGL平台打包部署心得](Platform/WebGL/WebGL.md) 
+- *资源*
+  - [FBX文件导入Unity中的设置]()
 

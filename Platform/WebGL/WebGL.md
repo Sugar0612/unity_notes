@@ -1,2 +1,3 @@
 - [Unity WebGL平台在IIS服务器上的配置](https://blog.csdn.net/por_sb_tu_y/article/details/139149305)
 - [使用VsCode临时服务器打开打包好的WebGL](https://blog.csdn.net/zhou_yh_/article/details/137405280) (Live Server)
+- [WebGL平台灯光Editor和发布版本不一致解决](../../Render/Lighting.md)
