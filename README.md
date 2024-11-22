@@ -19,6 +19,7 @@
   - [*Epplus*](Plugins/Epplus/EPPlus.dll)
 - *平台*
   - [WebGL平台打包部署心得](Platform/WebGL/WebGL.md) 
+  - [WebGL预加载优化](Platform/WebGL/Preloading.md)
 - *资源*
-  - [FBX文件导入Unity中的设置]()
+  - [FBX文件导入Unity中的设置](Resources/LoadFBX.md)
 
